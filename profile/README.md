@@ -1,4 +1,7 @@
 # Boas-vindas! 👋
+
+<img src=CH.png alt="logo" width="50%">
+
 ## Cristianismo Humilde
 <!--
 

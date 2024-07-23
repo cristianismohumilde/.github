@@ -1,3 +1,1 @@
-# Boas-vindas!
-
-<h2>Cristianismo Humilde</h2>
+cristianismohumilde/.github is a special repository.

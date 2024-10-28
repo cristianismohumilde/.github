@@ -1,8 +1,10 @@
-# Boas-vindas! 👋
+# Welcome! Boas-vindas!👋
 
 <img src=CH.png alt="logo" width="50%">
 
-## Cristianismo Humilde
+## Cristianismo Humilde (Humble Cristianity)
+We want to translate ancient Judeo-Christian Scriptures to many languages as possible, can you help us? So, just make a pull-request!
+Queremos traduzir Escrituras antigas judaico-cristãs para o muitos idiomas quanto possível, você pode nos ajudar? Então faça um pull-request!
 <!--
 
 **Here are some ideas to get you started:**

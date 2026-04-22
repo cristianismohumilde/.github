@@ -1,68 +1,66 @@
-# <p align="center">✡️ Judeus Verdadeiros ✡️</p>
+# <p align="center">🕊️ Cristianismo Humilde 🕊️</p>
 
 <p align="center">
-  <strong>Restaurando a Identidade e a Verdade das Escrituras</strong><br>
-  <em>Restoring Identity and the Truth of the Scriptures</em>
+  <img src="profile/CH.png" alt="Cristianismo Humilde Logo" width="200px"><br>
+  <strong>Traduzindo a Sabedoria Antiga para o Mundo Moderno</strong><br>
+  <em>Translating Ancient Wisdom for the Modern World</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/judeusverdadeiros?style=for-the-badge&logo=github&color=00529B" alt="Followers">
-  <img src="https://img.shields.io/github/stars/judeusverdadeiros/judeus.de?style=for-the-badge&logo=github&color=00529B" alt="Stars">
+  <img src="https://img.shields.io/github/followers/cristianismohumilde?style=for-the-badge&logo=github&color=336699" alt="Followers">
+  <img src="https://img.shields.io/github/stars/cristianismohumilde/biblia.creio.eu?style=for-the-badge&logo=github&color=336699" alt="Stars">
 </p>
 
 ---
 
-### 📖 Sobre Nós | About Us
+### 📜 Nossa Missão | Our Mission
 
 **PT-BR**
-Somos uma comunidade dedicada à restauração da identidade dos *B'nei Anusim* e ao estudo profundo das Escrituras em seu contexto original. Nosso objetivo é fornecer recursos educacionais, ferramentas de estudo e um ambiente de conexão para todos aqueles que buscam retornar às suas raízes e à verdade bíblica.
+Nossa missão é tornar as Escrituras Antigas Judaico-Cristãs acessíveis ao maior número possível de pessoas, em todos os idiomas. Acreditamos que a sabedoria contida nesses textos deve estar disponível de forma gratuita e clara para todos.
 
 **EN**
-We are a community dedicated to the restoration of the identity of the *B'nei Anusim* and the deep study of the Scriptures in their original context. Our goal is to provide educational resources, study tools, and a connection environment for all those seeking to return to their roots and biblical truth.
+Our mission is to make Ancient Judeo-Christian Scriptures accessible to as many people as possible, in every language. We believe that the wisdom contained in these texts should be available for free and clearly to everyone.
 
 ---
 
-### 🚀 Nossos Projetos | Our Projects
+### 🌟 Projeto em Destaque | Featured Project
 
-- **[Judeus.de](https://judeus.de)**: Nosso portal principal de recursos e estudos.
-- **[Biblia.Creio.EU](https://biblia.creio.eu)**: Plataforma de estudos bíblicos interlineares e manuscritos antigos.
-- **Traduções**: Esforços contínuos para tornar textos sagrados acessíveis em múltiplos idiomas.
-
----
-
-### 🛠️ Tecnologias | Technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" alt="GitHub Pages">
-</p>
-
----
-
-### 🤝 Como Contribuir | How to Contribute
-
-Acreditamos na força da comunidade. Você pode ajudar de várias formas:
-- **Tradução**: Ajude-nos a traduzir textos e recursos.
-- **Desenvolvimento**: Contribua com nossos repositórios open-source.
-- **Conteúdo**: Compartilhe conhecimentos e pesquisas.
-
----
-
-### 📱 Conecte-se | Connect with Us
-
-<p align="left">
-  <a href="https://www.youtube.com/@judeusverdadeiros">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://judeus.de">
-    <img src="https://img.shields.io/badge/Website-00529B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+<p align="center">
+  <a href="https://biblia.creio.eu">
+    <img src="https://img.shields.io/badge/Plataforma_Bíblia-Acesse_Agora-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Biblia Platform">
   </a>
 </p>
+
+**[Biblia.Creio.EU](https://biblia.creio.eu)**: Uma plataforma avançada para estudo de manuscritos antigos, versões interlineares e traduções acadêmicas.
+
+---
+
+### 🌍 Idiomas e Colaboração | Languages & Collaboration
+
+Trabalhamos com uma vasta gama de idiomas e manuscritos:
+- 🇮🇱 **Hebraico** (Tanakh, Manuscritos do Mar Morto)
+- 🇬🇷 **Grego** (Septuaginta, Novo Testamento)
+- 🇸🇾 **Siríaco** (Peshitta)
+- 🇵🇹 **Português**, 🇺🇸 **Inglês**, 🇪🇸 **Espanhol** e muito mais!
+
+---
+
+### 🛠️ Como Ajudar | How to Help
+
+Você pode contribuir de duas formas principais:
+1.  **Tradução:** Se você domina idiomas antigos ou modernos, sua ajuda é vital.
+2.  **Desenvolvimento:** Nossas ferramentas são open-source e construídas com tecnologias modernas.
+
+---
+
+### 🔗 Links Úteis | Quick Links
+
+- 🌐 **[Site Oficial](https://cristianismohumilde.github.io)**
+- 📖 **[Estudo Bíblico](https://biblia.creio.eu)**
+- 💻 **[Repositórios](https://github.com/orgs/cristianismohumilde/repositories)**
 
 ---
 
 <p align="center">
-  <em>"E conhecereis a verdade, e a verdade vos libertará."</em>
+  <em>"Humildade e Verdade na divulgação da Palavra."</em>
 </p>

@@ -1,7 +1,7 @@
 # <p align="center">🕊️ Cristianismo Humilde 🕊️</p>
 
 <p align="center">
-  <img src="profile/CH.png" alt="Cristianismo Humilde Logo" width="200px"><br>
+  <img src="CH.png" alt="Cristianismo Humilde Logo" width="200px"><br>
   <strong>Traduzindo a Sabedoria Antiga para o Mundo Moderno</strong><br>
   <em>Translating Ancient Wisdom for the Modern World</em>
 </p>
